@@ -1,0 +1,62 @@
+No. of word pairs: 44658
+
+1.
+Translation:
+['autorskie', 'prawo', 'nigdy', 'nie', 'było', 'i', 'nigdy', 'nie', 'będzie', 'przeszkodę', 'dla', 'od', 'postępy', 'i', 'zarówno', 'było', 'z', 'tych', 'czasu', 'jak', 'raz', 'była', 'został', 'pierwszego']
+
+Correct translation:
+['Prawo', 'autorskie', 'nigdy', 'nie', 'było', 'i', 'nigdy', 'nie', 'będzie', 'przeszkodą', 'dla', 'postępu', 'technicznego', 'i', 'tak', 'było', 'od', 'pierwszego', 'opracowania', 'druku']
+
+Average Cosine Similarity 0.9999999999999999
+Average Jaccard Similarity 0.41935483870967744
+
+
+2.
+Translation:
+['Powinniśmy', 'zacząć', 'z', 'samych', 'europejskich', 'instytucji']
+
+Correct translation:
+['Powinniśmy', 'zacząć', 'od', 'samych', 'instytucji', 'europejskich']
+
+Average Cosine Similarity 0.9999999999999999
+Average Jaccard Similarity 0.7142857142857143
+
+3.
+Translation:
+['Potrzebujemy', 'potrzebujemy', 'wytyczne', 'zasady', 'dla', 'zawarcia', 'umów', 'na', 'udzielania', 'utrzymanie', 'budynków', 'i', 'dla', 'nowych', 'budynków']
+
+Correct translation:
+['Potrzebujemy', 'wytycznych', 'dotyczących', 'udzielania', 'zamówień', 'na', 'utrzymanie', 'budynków', 'i', 'nowych', 'budynków']
+
+Average Cosine Similarity 0.9975469298826416
+Average Jaccard Similarity 0.4444444444444444
+
+4.
+Translation:
+['I', 'chociaż', 'w', 'tą', 'tym', 'kwestią', 'i', 'o', 'tym', 'już', 'wspomniano', 'wspomniane,', 'polityka', 'renowacji', 'starych', 'budynków', 'również', 'stworzyłaby', 'nowe', 'pracy', 'miejsca']
+
+Correct translation:
+['Podczas', 'gdy', 'zajmujemy', 'się', 'tym', 'tematem', 'i', 'zostało', 'to', 'już', 'wspomniane', 'konsekwentna', 'polityka', 'renowacji', 'starych', 'budynków', 'stworzyłaby', 'również', 'nowe', 'miejsca', 'pracy']
+
+Average Cosine Similarity 0.9985255824819129
+Average Jaccard Similarity 0.4
+
+5.
+Translation:
+['Cel', 'jest', 'a', 'i', 'to', 'również', 'ma', 'dla', 'Komisji']
+
+Correct translation:
+['Cel', 'procentowy', 'jest', 'rozsądny', 'i', 'ma', 'również', 'poparcie', 'Komisji']
+
+Average Cosine Similarity 1.0000000000000002
+Average Jaccard Similarity 0.5
+
+10.
+Translation:
+['autorskie', 'prawo', 'nigdy', 'nie', 'było', 'i', 'nigdy', 'nie', 'będzie', 'przeszkodę', 'dla', 'od', 'postępy', 'i', 'zarówno', 'było', 'z', 'tych', 'czasu', 'jak', 'raz', 'była', 'został', 'pierwszego', 'Powinniśmy', 'zacząć', 'z', 'samych', 'europejskich', 'instytucji', 'Potrzebujemy', 'potrzebujemy', 'wytyczne', 'zasady', 'dla', 'zawarcia', 'umów', 'na', 'udzielania', 'utrzymanie', 'budynków', 'i', 'dla', 'nowych', 'budynków', 'I', 'chociaż', 'w', 'tą', 'tym', 'kwestią', 'i', 'o', 'tym', 'już', 'wspomniano', 'wspomniane,', 'polityka', 'renowacji', 'starych', 'budynków', 'również', 'stworzyłaby', 'nowe', 'pracy', 'miejsca', 'nam', 'potrzebujemy', 'bardziej', 'ukierunkowanych', 'kampanii', 'wyłączną', 'na', 'konkretne', 'kampanii', 'grupy', 'i', 'kampanii', 'etykietowanie', 'wszystkich', 'konsumenckich,', 'towarów', 'i', 'towarów', 'produkcyjnych,', 'przeznaczenia', 'Rozpoczęto,', 'najszersze', 'ale', 'musimy', 'coś', 'bardziej', 'badanie', 'nam', 'musimy', 'zwiększyć', 'wykorzystanie', 'kombinowanego', 'energii', 'i', 'wytwarzanych', 'energii', 'i', 'w', 'musimy', 'być', 'zachować', 'aby', 'ten', 'opcję', 'nie', 'oraz', 'to', 'powodu', 'liberalizacji', 'wewnętrznego', 'energetycznego,', 'rynku', 'Cel', 'jest', 'a', 'i', 'to', 'również', 'ma', 'dla', 'Komisji', 'Potrzebujemy', 'potrzebujemy', 'program', 'finansowania', 'dla', 'energetyczne', 'firm', 'lub', 'ESCO', 'one', 'mają', 'duże', 'potencjał', 'na', 'przyszłość', 'i', 'mogą', 'pomóc', 'energii']
+
+Correct translation:
+['Prawo', 'autorskie', 'nigdy', 'nie', 'było', 'i', 'nigdy', 'nie', 'będzie', 'przeszkodą', 'dla', 'postępu', 'technicznego', 'i', 'tak', 'było', 'od', 'pierwszego', 'opracowania', 'druku', 'Powinniśmy', 'zacząć', 'od', 'samych', 'instytucji', 'europejskich', 'Potrzebujemy', 'wytycznych', 'dotyczących', 'udzielania', 'zamówień', 'na', 'utrzymanie', 'budynków', 'i', 'nowych', 'budynków', 'Podczas', 'gdy', 'zajmujemy', 'się', 'tym', 'tematem', 'i', 'zostało', 'to', 'już', 'wspomniane', 'konsekwentna', 'polityka', 'renowacji', 'starych', 'budynków', 'stworzyłaby', 'również', 'nowe', 'miejsca', 'pracy', 'Po', 'drugie', 'potrzebujemy', 'bardziej', 'ukierunkowanych', 'kampanii', 'skierowanych', 'do', 'określonych', 'grup', 'zawodowych', 'i', 'kompleksowego', 'etykietowania', 'wszystkich', 'elektrycznych', 'towarów', 'konsumpcyjnych', 'i', 'dóbr', 'inwestycyjnych', 'Rozpoczęto', 'ale', 'potrzeba', 'czegoś', 'bardziej', 'kompleksowego', 'Po', 'trzecie', 'musimy', 'zwiększyć', 'wykorzystanie', 'skojarzonego', 'ciepła', 'i', 'energii', 'oraz', 'musimy', 'uważać', 'aby', 'ta', 'opcja', 'nie', 'straciła', 'z', 'powodu', 'liberalizacji', 'wewnętrznego', 'rynku', 'energii', 'Cel', 'procentowy', 'jest', 'rozsądny', 'i', 'ma', 'również', 'poparcie', 'Komisji', 'Potrzebujemy', 'programu', 'finansowania', 'dla', 'firm', 'świadczących', 'usługi', 'energetyczne', 'lub', 'ESCO', 'Mają', 'duży', 'potencjał', 'na', 'przyszłość', 'i', 'mogą', 'pomóc', 'w', 'oszczędzaniu', 'energii']
+
+Average Cosine Similarity 0.9959295272816453
+Average Jaccard Similarity 0.4271356783919598
